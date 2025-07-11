@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "name": "John Smith",
+    "rating": 5,
+    "comment": "The care I received was exceptional. The staff was professional and caring throughout my treatment.",
+    "location": "New York, NY",
+    "image": "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=150"
+  },
+  {
+    "id": "2",
+    "name": "Maria Garcia",
+    "rating": 5,
+    "comment": "Dr. Johnson saved my life. The cardiac care team was amazing and I'm forever grateful.",
+    "location": "Los Angeles, CA",
+    "image": "https://images.pexels.com/photos/1542085/pexels-photo-1542085.jpeg?auto=compress&cs=tinysrgb&w=150"
+  },
+  {
+    "id": "3",
+    "name": "Robert Wilson",
+    "rating": 5,
+    "comment": "Outstanding facilities and world-class medical care. Highly recommend this medical center.",
+    "location": "Chicago, IL",
+    "image": "https://images.pexels.com/photos/1212984/pexels-photo-1212984.jpeg?auto=compress&cs=tinysrgb&w=150"
+  },
+  {
+    "id": "4",
+    "name": "Lisa Chen",
+    "rating": 5,
+    "comment": "The pediatric team took excellent care of my daughter. Very professional and child-friendly.",
+    "location": "San Francisco, CA",
+    "image": "https://images.pexels.com/photos/1181690/pexels-photo-1181690.jpeg?auto=compress&cs=tinysrgb&w=150"
+  }
+]

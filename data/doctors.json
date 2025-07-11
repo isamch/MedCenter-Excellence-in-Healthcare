@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Dr. Sarah Johnson",
+    "specialty": "Cardiologist",
+    "image": "https://images.pexels.com/photos/5327580/pexels-photo-5327580.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Dr. Johnson is a board-certified cardiologist with over 15 years of experience in treating heart conditions.",
+    "education": "MD from Johns Hopkins University",
+    "experience": "15+ years",
+    "specializations": ["Heart Disease", "Cardiac Surgery", "Preventive Cardiology"],
+    "phone": "(555) 123-4567",
+    "email": "sarah.johnson@medicalcenter.com"
+  },
+  {
+    "id": "2",
+    "name": "Dr. Michael Chen",
+    "specialty": "Neurologist",
+    "image": "https://images.pexels.com/photos/5327656/pexels-photo-5327656.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Dr. Chen specializes in neurological disorders and has extensive experience in treating complex brain conditions.",
+    "education": "MD from Stanford Medical School",
+    "experience": "12+ years",
+    "specializations": ["Epilepsy", "Stroke Care", "Parkinson's Disease"],
+    "phone": "(555) 234-5678",
+    "email": "michael.chen@medicalcenter.com"
+  },
+  {
+    "id": "3",
+    "name": "Dr. Emily Rodriguez",
+    "specialty": "Pediatrician",
+    "image": "https://images.pexels.com/photos/5327921/pexels-photo-5327921.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Dr. Rodriguez is dedicated to providing comprehensive healthcare for children from infancy through adolescence.",
+    "education": "MD from Harvard Medical School",
+    "experience": "10+ years",
+    "specializations": ["Child Development", "Immunizations", "Adolescent Medicine"],
+    "phone": "(555) 345-6789",
+    "email": "emily.rodriguez@medicalcenter.com"
+  },
+  {
+    "id": "4",
+    "name": "Dr. David Kim",
+    "specialty": "Orthopedic Surgeon",
+    "image": "https://images.pexels.com/photos/5327585/pexels-photo-5327585.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Dr. Kim is an expert in orthopedic surgery with a focus on sports medicine and joint replacement.",
+    "education": "MD from UCLA Medical School",
+    "experience": "18+ years",
+    "specializations": ["Sports Medicine", "Joint Replacement", "Trauma Surgery"],
+    "phone": "(555) 456-7890",
+    "email": "david.kim@medicalcenter.com"
+  }
+]

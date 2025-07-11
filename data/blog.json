@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "slug": "heart-health-tips",
+    "title": "10 Essential Tips for Heart Health",
+    "excerpt": "Learn the most important lifestyle changes you can make to keep your heart healthy and strong.",
+    "content": "Heart disease remains one of the leading causes of death worldwide, but many cases are preventable through lifestyle modifications. Here are 10 essential tips to keep your heart healthy...",
+    "author": "Dr. Sarah Johnson",
+    "date": "2024-01-15",
+    "image": "https://images.pexels.com/photos/40751/running-runner-long-distance-fitness-40751.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Cardiology",
+    "readTime": "5 min read"
+  },
+  {
+    "id": "2",
+    "slug": "child-nutrition-guide",
+    "title": "Complete Guide to Child Nutrition",
+    "excerpt": "Everything parents need to know about proper nutrition for growing children.",
+    "content": "Proper nutrition is crucial for a child's growth and development. This comprehensive guide covers everything parents need to know about feeding their children...",
+    "author": "Dr. Emily Rodriguez",
+    "date": "2024-01-10",
+    "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Pediatrics",
+    "readTime": "7 min read"
+  },
+  {
+    "id": "3",
+    "slug": "sports-injury-prevention",
+    "title": "Sports Injury Prevention Strategies",
+    "excerpt": "How to prevent common sports injuries and maintain peak physical performance.",
+    "content": "Sports injuries can be devastating for athletes at any level. Learn the most effective strategies to prevent common injuries and maintain optimal performance...",
+    "author": "Dr. David Kim",
+    "date": "2024-01-05",
+    "image": "https://images.pexels.com/photos/1552103/pexels-photo-1552103.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Orthopedics",
+    "readTime": "6 min read"
+  },
+  {
+    "id": "4",
+    "slug": "neurological-health-awareness",
+    "title": "Understanding Neurological Health",
+    "excerpt": "Important information about brain health and neurological conditions.",
+    "content": "The brain is one of our most complex organs, and maintaining neurological health is crucial for overall well-being. This article explores key aspects of brain health...",
+    "author": "Dr. Michael Chen",
+    "date": "2024-01-01",
+    "image": "https://images.pexels.com/photos/8135066/pexels-photo-8135066.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Neurology",
+    "readTime": "8 min read"
+  }
+]

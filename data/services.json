@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "Emergency Care",
+    "description": "24/7 emergency medical services with state-of-the-art facilities and experienced staff.",
+    "icon": "Heart",
+    "features": ["24/7 Availability", "Trauma Care", "Critical Care", "Emergency Surgery"]
+  },
+  {
+    "id": "2",
+    "name": "Cardiology",
+    "description": "Comprehensive heart care including diagnostics, treatment, and preventive cardiology.",
+    "icon": "HeartHandshake",
+    "features": ["Heart Disease Treatment", "Cardiac Surgery", "Preventive Care", "Diagnostic Testing"]
+  },
+  {
+    "id": "3",
+    "name": "Neurology",
+    "description": "Expert care for neurological conditions and disorders of the nervous system.",
+    "icon": "Brain",
+    "features": ["Stroke Care", "Epilepsy Treatment", "Parkinson's Care", "Neurological Surgery"]
+  },
+  {
+    "id": "4",
+    "name": "Pediatrics",
+    "description": "Specialized medical care for infants, children, and adolescents.",
+    "icon": "Baby",
+    "features": ["Well-Child Visits", "Immunizations", "Developmental Assessments", "Sick Child Care"]
+  },
+  {
+    "id": "5",
+    "name": "Orthopedics",
+    "description": "Treatment of bone, joint, and muscle conditions with advanced surgical techniques.",
+    "icon": "Bone",
+    "features": ["Joint Replacement", "Sports Medicine", "Trauma Surgery", "Rehabilitation"]
+  },
+  {
+    "id": "6",
+    "name": "Radiology",
+    "description": "Advanced imaging services including MRI, CT scans, and X-rays.",
+    "icon": "Scan",
+    "features": ["MRI Scans", "CT Scans", "X-Rays", "Ultrasound"]
+  }
+]
