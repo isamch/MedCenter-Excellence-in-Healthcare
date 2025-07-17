@@ -56,7 +56,7 @@ The app is fully responsive, user-friendly, and built with best practices for cl
 ---
 
 ## Screenshots
-> _Add your own screenshots here_
+> wait for screenshots_
 
 - ![Home Page](public/screenshots/home.png)
 - ![Doctors Page](public/screenshots/doctors.png)
