@@ -56,7 +56,7 @@ The app is fully responsive, user-friendly, and built with best practices for cl
 ---
 
 ## Screenshots
-> _Add your own screenshots here_
+> wait for screenshots_
 
 - ![Home Page](public/screenshots/home.png)
 - ![Doctors Page](public/screenshots/doctors.png)
@@ -87,8 +87,8 @@ The app is fully responsive, user-friendly, and built with best practices for cl
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
-   cd <project-directory>
+   git clone https://github.com/isamch/MedCenter-Excellence-in-Healthcare.git
+   cd MedCenter-Excellence-in-Healthcare
    ```
 2. **Install dependencies:**
    ```bash
@@ -135,7 +135,7 @@ This project is licensed under the MIT License.
 ---
 
 ## Contact
-- **Email:** info@medcenter.com
+- **Email:** isamchajia@gmail.com
 - **Website:** [Add your website link here]
 
 ---
