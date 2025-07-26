@@ -17,9 +17,8 @@ export default function ContactPage() {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault()
     
-    // Mock form submission
-    console.log('Form submitted:', formData)
-    setSubmitted(true)
+    // Handle form submission
+    // Reset form after 3 seconds(true)
     
     // Reset form after 3 seconds
     setTimeout(() => {

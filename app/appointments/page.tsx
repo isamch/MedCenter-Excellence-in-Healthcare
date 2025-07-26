@@ -20,7 +20,7 @@ export default function AppointmentsPage() {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault()
     
-    // Save to localStorage (mock functionality)
+    // Handle appointment booking
     const appointments = JSON.parse(localStorage.getItem('appointments') || '[]')
     const newAppointment = {
       id: Date.now().toString(),
