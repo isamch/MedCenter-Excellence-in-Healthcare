@@ -1,7 +1,7 @@
 'use client'
 
 import { motion } from 'framer-motion'
-import { DivideIcon as LucideIcon } from 'lucide-react'
+import type { LucideIcon } from 'lucide-react'
 import * as Icons from 'lucide-react'
 
 interface ServiceCardProps {
